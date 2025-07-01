@@ -1,7 +1,18 @@
 # COMPILER-DESIGN-BASICS
 
+COMPANY: CODTECH IT SOLUTIONS
 
-Certainly! Here’s a detailed explanation of a simple lexical analyzer in C that identifies keywords, operators, and identifiers, beginning with a foundational overview of compilers:
+NAME: AMAN SULEMAN MARANDI
+
+INTERN ID: CT04DG658
+
+DOMAIN: C PROGRAMMING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+
 
 # Introduction to Compiler
 A compiler is a specialized software program that translates code written in a high-level programming language (like C or Java) into a lower-level language, typically machine code, that a computer’s processor can execute. It performs this transformation through several sequential stages, each addressing a specific aspect of the source code. These stages typically include:

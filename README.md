@@ -51,9 +51,10 @@ Token: =          → Operator
 Token: 5          → Constant  
 
 
-
 # Educational Value and Applications
 This basic lexical analyzer lays the groundwork for more advanced compiler design topics, such as symbol table management, regular expressions, finite automata, and syntax-directed translation. Although this version focuses only on identifying three types of tokens, the same principles can be extended to recognize constants, delimiters, string literals, and more complex patterns using tools like Lex and Flex.
 Such projects help deepen one’s understanding of how programming languages are structured under the hood—valuable knowledge for any programmer with a curiosity for compilers, interpreters, or even programming language design itself.
 
+#OUTPUT
 
+![Image](https://github.com/user-attachments/assets/60e49395-cd05-4331-af19-4385629cc93f)
